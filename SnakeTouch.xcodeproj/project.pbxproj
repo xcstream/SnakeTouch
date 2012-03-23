@@ -18,6 +18,7 @@
 		A9A57730151C1C2E00652902 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9A5772F151C1C2E00652902 /* MainView.m */; };
 		A9A5773B151C208500652902 /* Nut.m in Sources */ = {isa = PBXBuildFile; fileRef = A9A5773A151C208500652902 /* Nut.m */; };
 		A9A5773D151C275E00652902 /* map.txt in Resources */ = {isa = PBXBuildFile; fileRef = A9A5773C151C275E00652902 /* map.txt */; };
+		A9A57742151C68F400652902 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A9A57741151C68F300652902 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		A9A57739151C208500652902 /* Nut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Nut.h; sourceTree = "<group>"; };
 		A9A5773A151C208500652902 /* Nut.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Nut.m; sourceTree = "<group>"; };
 		A9A5773C151C275E00652902 /* map.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map.txt; sourceTree = "<group>"; };
+		A9A57741151C68F300652902 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "../Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		A9A57717151C1BBE00652902 /* SnakeTouch */ = {
 			isa = PBXGroup;
 			children = (
+				A9A57741151C68F300652902 /* Icon@2x.png */,
 				A9A57720151C1BBE00652902 /* AppDelegate.h */,
 				A9A57721151C1BBE00652902 /* AppDelegate.m */,
 				A9A57723151C1BBE00652902 /* ViewController.h */,
@@ -164,6 +167,7 @@
 				A9A5771C151C1BBE00652902 /* InfoPlist.strings in Resources */,
 				A9A57728151C1BBE00652902 /* ViewController.xib in Resources */,
 				A9A5773D151C275E00652902 /* map.txt in Resources */,
+				A9A57742151C68F400652902 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
